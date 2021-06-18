@@ -1,7 +1,6 @@
 <img src="DSA-Playyard.png">
-
-<br><h1 align="center">Project Maintainers ⛑</h1>
 <center>
+<br><h1 align="center">Project Maintainers ⛑</h1>
 | [![DEMO](https://github.com/demo.png)](https://github.com/) | [![DEMO](https://github.com/demo.png)](https://github.com/) | [![DEMO](https://github.com/demo.png)](https://github.com/) |
 | :---------------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------: |
 |                         **NAME 1**                          |                         **NAME 2**                          |                         **NAME 3**                          |
