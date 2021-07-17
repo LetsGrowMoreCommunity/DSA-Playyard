@@ -1,10 +1,10 @@
-from collections import defaultdict
+#Dummy BT Class
 class bstNode:
 	def __init__(self,val=0,left=None,right=None):
 		self.val = val
 		self.left = left
 		self.right = right
-
+		
 class countLeafNodes:
 	def __init__(self):
 		self.curLeafNodes = 0
