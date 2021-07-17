@@ -59,7 +59,7 @@ class countLeafNodes:
 		#Return Counter
 		return self.curLeafNodes
 
-"""
+
 ### Testing code ###
 if __name__ == '__main__':
 	#[3, 9, null, null, null]
@@ -67,7 +67,7 @@ if __name__ == '__main__':
 	tester = btNode(3)
 	tester.left = btNode(9)
 	testingStation = countLeafNodes()
-	print(str(testingStation.levelOrder(tester)).replace("None","null"))
+	#print(str(testingStation.levelOrder(tester)).replace("None","null"))
 	print(testingStation.countLeafNodes(tester))
 	#[3, 9, 20, 100, null, 15, 7, null, null, null, null, null, 20, null, null]
 	#Answer: 3
@@ -76,6 +76,19 @@ if __name__ == '__main__':
 	tester.right.right = btNode(7)
 	tester.right.right.right = btNode(20)
 	tester.left.left = btNode(100)
-	print(str(testingStation.levelOrder(tester)).replace("None","null"))
+	#print(str(testingStation.levelOrder(tester)).replace("None","null"))
 	print(testingStation.countLeafNodes(tester))
-"""
+	#[6,7,8,2,7,1,3,9,null,1,4,null,null,null,5]
+	#Answer: 5
+	tester = btNode(6)
+	tester.left = btNode(7)
+	tester.right = btNode(8)
+	tester.left.left = btNode(2)
+	tester.left.left.left = btNode(9)
+	tester.left.right = btNode(7)
+	tester.left.right.left = btNode(1)
+	tester.left.right.right = btNode(4)
+	tester.right.left = btNode(1)
+	tester.right.right = btNode(1)
+	tester.right.right.right = btNode(5)
+	print(testingStation.countLeafNodes(tester))
