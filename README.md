@@ -6,8 +6,8 @@ This Project contains all the basic and important topics of DSA so what are you 
 
 Happy Coding! 🙂
 
-<br><h1 align="center">Project Maintainers ⛑</h1>
-| [![DEMO](https://github.com/demo.png)](https://github.com/) | [![DEMO](https://github.com/demo.png)](https://github.com/) | [![DEMO](https://github.com/demo.png)](https://github.com/) |
+<br><h1 align="center">Project Mentors ⛑</h1>
+| [![SNEHA](https://github.com/account)](https://github.com/SnehaAgarwal361/) | [![DEMO](https://github.com/demo.png)](https://github.com/) | [![DEMO](https://github.com/demo.png)](https://github.com/) |
 | :---------------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------: |
 |                         **Vimaram**                          |                         **Vilsi Jain**                          |                         **Rohan kulkarni**                          |
 
