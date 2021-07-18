@@ -14,7 +14,7 @@ Happy Coding! 🙂
 <br><h1 align="center">Project Mentors ⛑</h1>
 <table>
   <tbody><tr>
-    <td align="center"><a href=""><img alt="https://github.com/SnehaAgarwal361/" src="https://avatars.githubusercontent.com/u/73896596?v=4" width="130px;"><br><sub><b>
+    <td align="center"><a href="https://github.com/SnehaAgarwal361/"><img alt="" src="https://avatars.githubusercontent.com/u/73896596?v=4" width="130px;"><br><sub><b>
  Sneha Agarwal </b></sub></a><br><a href="https://www.linkedin.com/in/sneha-agrwal/" title="Code">💻</a></td></a></td>
     <td align="center"><a href=https://github.com/Sargam-Agarwal"><img alt="" src="https://avatars.githubusercontent.com/u/72149858?v=4" width="130px;"><br><sub><b>
  Sargam Agarwal </b></sub></a><br><a href="https://www.linkedin.com/in/sargam-agarwal-9320791a5/" title="Code">💻 </a></td></a></td>
