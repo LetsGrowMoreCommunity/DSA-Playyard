@@ -62,7 +62,7 @@ For explanation purpose, let's assume that you are uploading C++ code for the qu
 * Your file should be uploaded in the ***Arrays -> C++*** folder. 
 * The file name should be ***'123. Print the array.cpp'***. 
 
-# Project Admins
+# Project Maintainers
 <table>
   <tbody><tr>
     <td align="center"><img alt="" src="https://avatars.githubusercontent.com/u/53365687?v=4" width="130px;"><br><sub><b>
