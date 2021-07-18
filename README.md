@@ -7,7 +7,8 @@ This Project contains all the basic and important topics of DSA so what are you 
 
 ****Watch this video before contributing to DSA-Play yard Happy Coding!**** 🙂
  https://youtu.be/Ff38VOjv1no
-# Project Structure 
+
+# 🧩 Project Structure 
 
 Out of all the folders and files, you'll be able to see the 'Topic Wise Folders'. For example, "Arrays", "Linked List", etc. These folders are our major concern. Now, lets understand the structure of each of these folders. For explanation purpose, we'll consider the example of "Arrays" folder.
 
@@ -18,13 +19,13 @@ Out of all the folders and files, you'll be able to see the 'Topic Wise Folders'
 NOTE : The questions can be added ONLY BY MENTORS.
 <br>
 
-# Workflow of the entire process
+# 👾 Workflow of the entire process
 
 * As soon as the mentors add new questions in the README.md of any particular topic folder, they also open an issue for that question. 
 * This clearly means that no participant is supposed to open an issue for the questions. ONLY MENTORS CAN OPEN AN ISSUE FOR A QUESTION. 
 * You as participant have to go on the issue of the question you wish to solve -> ask the mentors to assign you this issue. Make sure to mention the language in which you'd like to code otherwise the mentors won't be able to assign you the issue.
 
-# How can participants suggest questions for a particular topic ?
+# 📌 How can participants suggest questions for a particular topic ?
 
 * There is a file named as "Suggested Questions". 
 * This file is created specially for the participants. If you want to contribute a code for a particular question which is not in the list of questions for which you can provide solution for, you can suggest the question in this file maintaining the serial number (add the link if possible).
@@ -36,7 +37,7 @@ NOTE : The questions can be added ONLY BY MENTORS.
 NOTE : The person who suggested the question will be prioritized when assigning the issue. The mentors will keep track of it.
 <br>
 
-# Contribution Guidelines :gear:
+# 🎯 Contribution Guidelines
 
 You may go through these guidelines and contribute accordingly:
 
@@ -47,7 +48,7 @@ You may go through these guidelines and contribute accordingly:
 * Just mention the issue against which the pull request is open by writing ```Fixes #(your issue number)``` in the description of the pull request.
 * Do not update the [README.md](README.md).
 
-## Guidelines for your code :
+## Guidelines for your code 🤖
 
 * Add a **brief description** of your algorithm using multi-line (/*...*/) comments at the starting of the code.
 * Add **comments** to your code wherever necessary.
@@ -62,7 +63,7 @@ For explanation purpose, let's assume that you are uploading C++ code for the qu
 * Your file should be uploaded in the ***Arrays -> C++*** folder. 
 * The file name should be ***'123. Print the array.cpp'***. 
 
-# Project Maintainers
+# Project Maintainers ⚙
 <table>
   <tbody><tr>
     <td align="center"><img alt="" src="https://avatars.githubusercontent.com/u/53365687?v=4" width="130px;"><br><sub><b>
@@ -82,7 +83,7 @@ For explanation purpose, let's assume that you are uploading C++ code for the qu
 
 
 
-<br><h1 align="center">Project Mentors ⛑</h1>
+<br><h1 align="center">Project Mentors 🔥</h1>
 <table>
   <tbody><tr>
     <td align="center"><img alt="" src="https://avatars.githubusercontent.com/u/73896596?v=4" width="130px;"><br><sub><b>
@@ -95,7 +96,7 @@ For explanation purpose, let's assume that you are uploading C++ code for the qu
  Ujjawal Sharma </b></sub><br>
 <a href="https://www.linkedin.com/in/ujjawal-sharma-3b4009195/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>&nbsp&nbsp<a href="https://github.com/ujju20/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="20" width="20" /></a><nbsp></td></a></td>
     <td align="center"><img alt="" src="https://avatars.githubusercontent.com/u/59785217?v=4" width="130px;"><br><sub><b>
- sameeksharl</b></sub><br>
+ Sameeksha RL</b></sub><br>
 <a href="https://www.linkedin.com/in/sameeksha-rl-5a49b0195/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>&nbsp&nbsp<a href="https://www.github.com/sameeksharl/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="20" width="20" /></a><nbsp></td></a></td>
   <td align="center"><img alt="" src="https://avatars.githubusercontent.com/u/56837936?v=4" width="130px;"><br><sub><b>
 Debashish kumar sahoo </b></sub><br>
