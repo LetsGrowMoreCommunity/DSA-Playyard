@@ -17,9 +17,7 @@ Happy Coding! 🙂
     <td align="center"><a href="https://github.com/SnehaAgarwal361/"><img alt="" src="https://avatars.githubusercontent.com/u/73896596?v=4" width="130px;"><br><sub><b>
  Sneha Agarwal </b></sub></a><br><a href="https://www.linkedin.com/in/sneha-agrwal/" title="Code">💻</a></td></a></td>
     <td align="center"><a href=https://github.com/Sargam-Agarwal"><img alt="" src="https://avatars.githubusercontent.com/u/72149858?v=4" width="130px;"><br><sub><b>
- Sargam Agarwal </b></sub></a><br><a href="https://www.linkedin.com/in/sargam-agarwal-9320791a5/" title="Code">💻 </a></td></a></td>
-     <td align="center"><a href="https://www.github.com/ujju20"><img alt="" src="https://avatars.githubusercontent.com/u/53082978?v=4" width="130px;"><br><sub><b>
- Ravi Kumar </b></sub></a><br><a href="https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice/commits?author=ravikr126" title="Code">💻 </a></td></a></td>
+ Sargam Agarwal </b></sub></a><br><a href="https://www.linkedin.com/in/sargam-agarwal-9320791a5/" title="Code">💻 </a></td></a></td>]
   </tr>
 </tbody></table>
 
