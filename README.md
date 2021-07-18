@@ -65,8 +65,16 @@ For explanation purpose, let's assume that you are uploading C++ code for the qu
 # Project Admins
 <table>
   <tbody><tr>
-    <td align="center"><a href="https://github.com/vilsi12/"><img alt="" src="https://avatars.githubusercontent.com/u/53365687?v=4" width="130px;"><br><sub><b>
- Vilsi Jain</b></sub></a><br>
+    <td align="center"><img alt="" src="https://avatars.githubusercontent.com/u/53365687?v=4" width="130px;"><br><sub><b>
+ Vilsi Jain</b></sub><br>
+<a href="https://www.linkedin.com/in/vilsijain08" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>&nbsp&nbsp<a href="https://github.com/vilsi12/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="20" width="20" /></a><nbsp></td></a></td>
+
+ <td align="center"><img alt="" src="https://avatars.githubusercontent.com/u/53365687?v=4" width="130px;"><br><sub><b>
+ Vimaram</b></sub><br>
+<a href="https://www.linkedin.com/in/vilsijain08" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>&nbsp&nbsp<a href="https://github.com/vilsi12/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="20" width="20" /></a><nbsp></td></a></td>
+
+ <td align="center"><img alt="" src="https://avatars.githubusercontent.com/u/53365687?v=4" width="130px;"><br><sub><b>
+ Rohan</b></sub><br>
 <a href="https://www.linkedin.com/in/vilsijain08" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>&nbsp&nbsp<a href="https://github.com/vilsi12/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="20" width="20" /></a><nbsp></td></a></td>
    
   </tr>
