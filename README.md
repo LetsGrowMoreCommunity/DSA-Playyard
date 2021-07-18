@@ -42,7 +42,7 @@ You may go through these guidelines and contribute accordingly:
 * You can work ONLY ON THE ISSUES ASSIGNED TO YOU.
 * Once the code for a particular question in a particular language is assigned to someone else, you cannot be assigned to work on that.
 * Make sure you do not copy codes from external sources like GFG, Leetcode, etc because that work will not be considered. **Plagiarism is strictly not allowed.**
-* Make sure your code is compiles and run perfectly fine before making a pull requests.
+* Make sure your code compiles and runs perfectly before making a pull request.
 * Just mention the issue against which the pull request is open by writing ```Fixes #(your issue number)``` in the description of the pull request.
 * Do not update the [README.md](README.md).
 
