@@ -74,7 +74,7 @@ For explanation purpose, let's assume that you are uploading C++ code for the qu
 <a href="linkedin.com/in/~amankesarwani" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>&nbsp&nbsp<a href="https://github.com/Amankesarwani2202" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="20" width="20" /></a><nbsp></td></a></td>
 
  <td align="center"><img alt="" src="https://avatars.githubusercontent.com/u/64543913?v=4" width="130px;"><br><sub><b>
- Rohan</b></sub><br>
+ Tejas </b></sub><br>
 <a href=" https://www.linkedin.com/in/tejas-sudhir-tapas-971847171/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>&nbsp&nbsp<a href="https://github.com/Tejas1510" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="20" width="20" /></a><nbsp></td></a></td>
    
   </tr>
