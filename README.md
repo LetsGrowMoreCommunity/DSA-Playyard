@@ -9,7 +9,7 @@ Happy Coding! 🙂
 <br><h1 align="center">Project Mentors ⛑</h1>
 | [![SNEHA](https://avatars.githubusercontent.com/u/73896596?v=4)](https://github.com/SnehaAgarwal361/) | [![DEMO](https://github.com/demo.png)](https://github.com/) | [![DEMO](https://github.com/demo.png)](https://github.com/) |
 | :---------------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------: |
-|                         **Vimaram**                          |                         **Vilsi Jain**                          |                         **Rohan kulkarni**                          |
+|                         **Sneha Agarwal**                          |                         **Vilsi Jain**                          |                         **Rohan kulkarni**                          |
 
 It will tell how to make https://youtu.be/Ff38VOjv1no
 <h1 align="center">Contributors ⚡</h1>
