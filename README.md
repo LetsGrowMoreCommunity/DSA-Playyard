@@ -87,7 +87,7 @@ For explanation purpose, let's assume that you are uploading C++ code for the qu
  Ujjawal Sharma </b></sub><br>
 <a href="https://www.linkedin.com/in/ujjawal-sharma-3b4009195/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>&nbsp&nbsp<a href="https://github.com/ujju20/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="20" width="20" /></a><nbsp></td></a></td>
     <td align="center"><img alt="" src="https://avatars.githubusercontent.com/u/59785217?v=4" width="130px;"><br><sub><b>
- sameeksharl </b></sub><br>
+ sameeksharl</b></sub><br>
 <a href="https://www.linkedin.com/in/sameeksha-rl-5a49b0195/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>&nbsp&nbsp<a href="https://www.github.com/sameeksharl/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="20" width="20" /></a><nbsp></td></a></td>
   <td align="center"><img alt="" src="https://avatars.githubusercontent.com/u/56837936?v=4" width="130px;"><br><sub><b>
 Debashish kumar sahoo </b></sub><br>
