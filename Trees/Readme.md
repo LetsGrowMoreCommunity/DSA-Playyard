@@ -1,2 +1,1 @@
-1. Symmetric Tree
-![SYMMETRIC TREE](https://leetcode.com/problems/symmetric-tree/)
+[SYMMETRIC TREE](https://leetcode.com/problems/symmetric-tree/)
