@@ -77,20 +77,20 @@ For explanation purpose, let's assume that you are uploading C++ code for the qu
 <br><h1 align="center">Project Mentors ⛑</h1>
 <table>
   <tbody><tr>
-    <td align="center"><a href="https://github.com/SnehaAgarwal361/"><img alt="" src="https://avatars.githubusercontent.com/u/73896596?v=4" width="130px;"><br><sub><b>
- Sneha Agarwal</b></sub></a><br>
+    <td align="center"><img alt="" src="https://avatars.githubusercontent.com/u/73896596?v=4" width="130px;"><br><sub><b>
+ Sneha Agarwal</b></sub><br>
 <a href="https://linkedin.com/in/sneha-agrwal" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>&nbsp&nbsp<a href="https://github.com/SnehaAgarwal361/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="20" width="20" /></a><nbsp></td></a></td>
-    <td align="center"><a href=https://github.com/Sargam-Agarwal/"><img alt="" src="https://avatars.githubusercontent.com/u/72149858?v=4" width="130px;"><br><sub><b>
- Sargam Agarwal </b></sub></a><br> 
+    <td align="center"><img alt="" src="https://avatars.githubusercontent.com/u/72149858?v=4" width="130px;"><br><sub><b>
+ Sargam Agarwal </b></sub><br> 
 <a href="https://www.linkedin.com/in/sargam-agarwal-9320791a5/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>&nbsp&nbsp<a href="https://github.com/Sargam-Agarwal/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="20" width="20" /></a><nbsp></td></a></td>
-    <td align="center"><a href="https://github.com/ujju20/"><img alt="" src="https://avatars.githubusercontent.com/u/64632969?v=4" width="130px;"><br><sub><b>
- Ujjawal Sharma </b></sub></a><br>
+    <td align="center"><img alt="" src="https://avatars.githubusercontent.com/u/64632969?v=4" width="130px;"><br><sub><b>
+ Ujjawal Sharma </b></sub><br>
 <a href="https://www.linkedin.com/in/ujjawal-sharma-3b4009195/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>&nbsp&nbsp<a href="https://github.com/ujju20/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="20" width="20" /></a><nbsp></td></a></td>
-    <td align="center"><a href="https://www.github.com/sameeksharl/"><img alt="" src="https://avatars.githubusercontent.com/u/59785217?v=4" width="130px;"><br><sub><b>
- sameeksharl </b></sub></a><br>
+    <td align="center"><img alt="" src="https://avatars.githubusercontent.com/u/59785217?v=4" width="130px;"><br><sub><b>
+ sameeksharl </b></sub><br>
 <a href="https://www.linkedin.com/in/sameeksha-rl-5a49b0195/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>&nbsp&nbsp<a href="https://www.github.com/sameeksharl/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="20" width="20" /></a><nbsp></td></a></td>
-    <td align="center"><a href="https://github.com/Debashish-hub"><img alt="" src="https://avatars.githubusercontent.com/u/56837936?v=4" width="130px;"><br><sub><b>
- Debashish kumar sahoo </b></sub></a><br>
+    <td align="center"<img alt="" src="https://avatars.githubusercontent.com/u/56837936?v=4" width="130px;"><br><sub><b>
+ Debashish kumar sahoo </b></sub><br>
 <a href="https://www.linkedin.com/in/debashish-kumar-sahoo-784948193" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>&nbsp&nbsp<a href="https://github.com/Debashish-hub" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="20" width="20" /></a><nbsp></td></a></td>
   </tr>
 </tbody></table>
