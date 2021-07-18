@@ -5,7 +5,8 @@ Hey Everyone! 👋 ****DSA- PlayYard**** is the first open source project of Let
 This Project contains all the basic and important topics of DSA so what are you waiting for Contribute to the project, and submit the solutions and have a chance to be featured as Contributor in this project.
 
 Happy Coding! 🙂
-
+Watch this video before contributing to DSA-Play yard
+ https://youtu.be/Ff38VOjv1no
 # Project Structure 
 
 Out of all the folders and files, you'll be able to see the 'Topic Wise Folders'. For example, "Arrays", "Linked List", etc. These folders are our major concern. Now, lets understand the structure of each of these folders. For explanation purpose, we'll consider the example of "Arrays" folder.
@@ -89,7 +90,7 @@ For explanation purpose, let's assume that you are uploading C++ code for the qu
   </tr>
 </tbody></table>
 
-It will tell how to make https://youtu.be/Ff38VOjv1no
+
 <h1 align="center">Contributors ⚡</h1>
 <a href="https://github.com/LetsGrowMoreCommunity/DSA-Playyard/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=LetsGrowMoreCommunity/DSA-Playyard" />
