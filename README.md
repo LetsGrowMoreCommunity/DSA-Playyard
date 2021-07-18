@@ -4,8 +4,8 @@ Hey Everyone! 👋 ****DSA- PlayYard**** is the first open source project of Let
 
 This Project contains all the basic and important topics of DSA so what are you waiting for Contribute to the project, and submit the solutions and have a chance to be featured as Contributor in this project.
 
-Happy Coding! 🙂
-Watch this video before contributing to DSA-Play yard
+
+Watch this video before contributing to DSA-Play yard Happy Coding! 🙂
  https://youtu.be/Ff38VOjv1no
 # Project Structure 
 
