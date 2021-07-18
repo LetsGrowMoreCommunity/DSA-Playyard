@@ -19,6 +19,12 @@ Out of all the folders and files, you'll be able to see the 'Topic Wise Folders'
 NOTE : The questions can be added ONLY BY MENTORS.
 <br>
 
+# :sparkles: Languages Available under the Project
+Our project is divided by important topics that comes under DSA and each topic can be implemented in three languages.Do not create folders in your submissions unless specifically told to do so for other languages. The languages available are 
+- C++
+- python
+- Java
+
 # 👾 Workflow of the entire process
 
 * As soon as the mentors add new questions in the README.md of any particular topic folder, they also open an issue for that question. 
