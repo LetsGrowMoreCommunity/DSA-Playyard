@@ -10,3 +10,7 @@ It will tell how to make https://youtu.be/Ff38VOjv1no
 <a href="https://github.com/LetsGrowMoreCommunity/DSA-Playyard/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=LetsGrowMoreCommunity/DSA-Playyard" />
 </a>
+
+
+When you update readme add this link for showing contributors page
+<a href="https://letsgrowmorecommunity.github.io/DSA-Playyard/Tribute_to_contributors.html">Contributors</a>
