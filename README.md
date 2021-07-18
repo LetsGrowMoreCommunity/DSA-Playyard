@@ -71,7 +71,7 @@ For explanation purpose, let's assume that you are uploading C++ code for the qu
 
  <td align="center"><img alt="" src="https://avatars.githubusercontent.com/u/64828784?v=4" width="130px;"><br><sub><b>
  Aman Kesarwani</b></sub><br>
-<a href="linkedin.com/in/~amankesarwani/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>&nbsp&nbsp<a href="https://github.com/Amankesarwani2202/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="20" width="20" /></a><nbsp></td></a></td>
+<a href="https://www.linkedin.com/in/~amankesarwani/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>&nbsp&nbsp<a href="https://github.com/Amankesarwani2202/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="20" width="20" /></a><nbsp></td></a></td>
 
  <td align="center"><img alt="" src="https://avatars.githubusercontent.com/u/64543913?v=4" width="130px;"><br><sub><b>
  Tejas Sudhir Tapas </b></sub><br>
