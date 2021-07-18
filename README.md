@@ -15,7 +15,8 @@ Happy Coding! 🙂
 <table>
   <tbody><tr>
     <td align="center"><a href="https://github.com/SnehaAgarwal361/"><img alt="" src="https://avatars.githubusercontent.com/u/73896596?v=4" width="130px;"><br><sub><b>
- Sneha Agarwal </b></sub></a><br><a href="https://www.linkedin.com/in/sneha-agrwal/" title="Code">💻</a></td></a></td>
+ Sneha Agarwal </b></sub></a><br>
+<a href="https://linkedin.com/in/sneha-agrwal" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>&nbsp&nbsp<a href="https://github.com/SnehaAgarwal361/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="20" width="20" /></a><nbsp></td></a></td>
     <td align="center"><a href=https://github.com/Sargam-Agarwal/"><img alt="" src="https://avatars.githubusercontent.com/u/72149858?v=4" width="130px;"><br><sub><b>
  Sargam Agarwal </b></sub></a><br><a href="https://www.linkedin.com/in/sargam-agarwal-9320791a5/" title="Code">💻 </a></td></a></td> 
     <td align="center"><a href="https://github.com/ujju20/"><img alt="" src="https://avatars.githubusercontent.com/u/64632969?v=4" width="130px;"><br><sub><b>
