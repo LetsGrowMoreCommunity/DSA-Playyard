@@ -71,7 +71,7 @@ For explanation purpose, let's assume that you are uploading C++ code for the qu
 * The file name should be ***'123. Print the array.cpp'***. 
 
 <br><h1 align="center">Project Maintainers ⚙</h1>
-<table>
+<table align="center">
   <tbody><tr>
     <td align="center"><img alt="" src="https://avatars.githubusercontent.com/u/53365687?v=4" width="130px;"><br><sub><b>
  Vilsi Jain</b></sub><br>
