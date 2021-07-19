@@ -5,8 +5,15 @@ Hey Everyone! 👋 ****DSA- PlayYard**** is the first open source project of Let
 This Project contains all the basic and important topics of DSA so what are you waiting for Contribute to the project, and submit the solutions and have a chance to be featured as Contributor in this project.
 
 
-****Watch this video before contributing to DSA-Play yard Happy Coding!**** 🙂
+### 🥁🥁 ****Watch this video before contributing to DSA-Play yard 🙌. Happy Coding!**** 🙂
  https://youtu.be/Ff38VOjv1no
+
+
+# 🚀 Languages Available under the Project
+Our project is divided into important topics that come under DSA and each topic can be implemented in three languages.Do not create folders in your submissions unless specifically told to do so for other languages. The languages available are 
+- C++
+- python
+- Java
 
 # 🧩 Project Structure 
 
@@ -16,14 +23,8 @@ Out of all the folders and files, you'll be able to see the 'Topic Wise Folders'
 * The 'README.md' file will contain the questions serial number wise (along with links). On clicking the question, you'll be redirected to where there is proper       explanation for the question.
 * These questions are the ONLY QUESTIONS that you can solve and provide your solution for in the language of your choice (C++, Java, Python).
 <br>
-NOTE : The questions can be added ONLY BY MENTORS.
+⭐ NOTE : The questions can be added ONLY BY MENTORS.
 <br>
-
-# :sparkles: Languages Available under the Project
-Our project is divided by important topics that comes under DSA and each topic can be implemented in three languages.Do not create folders in your submissions unless specifically told to do so for other languages. The languages available are 
-- C++
-- python
-- Java
 
 # 👾 Workflow of the entire process
 
@@ -40,7 +41,7 @@ Our project is divided by important topics that comes under DSA and each topic c
 * Now, once this question is added, the mentor will also open an issue for this question.
 * So, now you can go and ask to be assigned this issue. 
 <br>
-NOTE : The person who suggested the question will be prioritized when assigning the issue. The mentors will keep track of it.
+⭐ NOTE : The person who suggested the question will be prioritized when assigning the issue. The mentors will keep track of it.
 <br>
 
 # 🎯 Contribution Guidelines
