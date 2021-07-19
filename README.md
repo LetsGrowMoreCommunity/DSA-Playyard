@@ -49,6 +49,12 @@ Out of all the folders and files, you'll be able to see the 'Topic Wise Folders'
 You may go through these guidelines and contribute accordingly:
 
 * You can work ONLY ON THE ISSUES ASSIGNED TO YOU.
+* The code has to be contributed within the specified days as per the level of the question(You'll be told the number of days by mentors when assigned the issue as well)
+  - Level 0 -> 1 day
+  - Level 1 -> 2 days
+  - Level 2 -> 3 days
+  - Level 3 -> 3 days
+  - Level 4 -> 5 days
 * Once the code for a particular question in a particular language is assigned to someone else, you cannot be assigned to work on that.
 * Make sure you do not copy codes from external sources like GFG, Leetcode, etc because that work will not be considered. **Plagiarism is strictly not allowed.**
 * Make sure your code compiles and runs perfectly before making a pull request.
