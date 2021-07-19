@@ -1,4 +1,5 @@
 [1. Rectangle Area](https://leetcode.com/problems/rectangle-area/)
+
 [2. Count Primes](https://leetcode.com/problems/count-primes/)
 
 [3. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
