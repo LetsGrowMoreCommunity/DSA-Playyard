@@ -49,12 +49,6 @@ Out of all the folders and files, you'll be able to see the 'Topic Wise Folders'
 You may go through these guidelines and contribute accordingly:
 
 * You can work ONLY ON THE ISSUES ASSIGNED TO YOU.
-* The code has to be contributed within the specified days as per the level of the question(You'll be told the number of days by mentors when assigned the issue as well)
-  - Level 0 -> 1 day
-  - Level 1 -> 2 days
-  - Level 2 -> 3 days
-  - Level 3 -> 3 days
-  - Level 4 -> 5 days
 * Once the code for a particular question in a particular language is assigned to someone else, you cannot be assigned to work on that.
 * Make sure you do not copy codes from external sources like GFG, Leetcode, etc because that work will not be considered. **Plagiarism is strictly not allowed.**
 * Make sure your code compiles and runs perfectly before making a pull request.
@@ -90,6 +84,10 @@ For explanation purpose, let's assume that you are uploading C++ code for the qu
  <td align="center"><img alt="" src="https://avatars.githubusercontent.com/u/64543913?v=4" width="130px;"><br><sub><b>
  Tejas Sudhir Tapas </b></sub><br>
 <a href="https://www.linkedin.com/in/tejas-sudhir-tapas-971847171/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>&nbsp&nbsp<a href="https://https://github.com/Tejas1510/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="20" width="20" /></a><nbsp></td></a></td>
+
+<td align="center"><img alt="" src="https://avatars.githubusercontent.com/u/76584243?v=4" width="130px;"><br><sub><b>
+ Rohan Kulkarni</b></sub><br>
+<a href="https://www.linkedin.com/in/rohan-k-2502/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>&nbsp&nbsp<a href="https://github.com/rohan-kulkarni-25 " target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="20" width="20" /></a><nbsp></td></a></td>
    
   </tr>
 </tbody></table>
@@ -114,6 +112,9 @@ For explanation purpose, let's assume that you are uploading C++ code for the qu
   <td align="center"><img alt="" src="https://avatars.githubusercontent.com/u/56837936?v=4" width="130px;"><br><sub><b>
 Debashish kumar sahoo </b></sub><br>
 <a href="https://www.linkedin.com/in/debashish-kumar-sahoo-784948193" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>&nbsp&nbsp<a href="https://github.com/Debashish-hub" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="20" width="20" /></a><nbsp></td></a></td>
+ <td align="center"><img alt="" src="https://avatars.githubusercontent.com/u/38381061?v=4" width="130px;"><br><sub><b>
+Yash Thakare </b></sub><br>
+<a href="https://www.linkedin.com/in/yashthakare/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>&nbsp&nbsp<a href="https://github.com/YashThakare" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="20" width="20" /></a><nbsp></td></a></td>
 
   </tr>
 </tbody></table>
