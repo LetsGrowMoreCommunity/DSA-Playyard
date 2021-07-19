@@ -1,1 +1,6 @@
-
+1. [Single Number](https://leetcode.com/problems/single-number/)
+2. [Add Binary](https://leetcode.com/problems/add-binary/)
+3. [Power of Two](https://leetcode.com/problems/power-of-two/)
+4. [Counting Bits](https://leetcode.com/problems/counting-bits/)
+5. [Power of Four](https://leetcode.com/problems/power-of-four/)
+6. [Number Complement](https://leetcode.com/problems/number-complement/)
