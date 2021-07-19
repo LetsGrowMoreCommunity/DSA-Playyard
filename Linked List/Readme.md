@@ -1,0 +1,5 @@
+1. [Merge Two Sorted Linked List](https://leetcode.com/problems/merge-two-sorted-lists/)
+2. [Remove Duplicates from sorted Linked List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+3. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+4. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+5. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
