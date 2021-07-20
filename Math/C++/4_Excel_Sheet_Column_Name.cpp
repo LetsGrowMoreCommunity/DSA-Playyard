@@ -61,5 +61,5 @@ SAMPLE OUTPUT (excluding interative instructions)
 
 COMPLEXITY ANALYSIS n= string length
 Time: O(n) to traverse the full string and treat the string as a base-26 number
-Space: O(n) for input, aux space_ O(1)
+Space: O(n) for input, aux space: O(1)
 */
