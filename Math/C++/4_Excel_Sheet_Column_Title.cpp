@@ -22,9 +22,9 @@ public:
         
         while (n)
         {
-			/* n%26==0 is a special case and hence, has to be treated separately. 
-			This is because counting starts from A==1 and Z is 25th wrt A.
-			*/
+			//n%26==0 is a special case and hence, has to be treated separately. 
+			//This is because counting starts from A==1 and Z is 25th wrt A.
+			
             str= ((n%26) ? char(n%26 + 64) : 'Z') + str;
             n= (n/26) - ((n%26) ? 0 : 1 );
         }
@@ -50,11 +50,11 @@ int main()
 
 /*
 SAMPLE INPUT
-4           	<-- NO. OF TEST CASES
-1				<-- FIRST ALLOWED COLUMN NUMBER
+4               <-- NO. OF TEST CASES
+1               <-- FIRST ALLOWED COLUMN NUMBER
 28
 701
-2147483647		<-- LAST ALLOWED COLUMN NUMBER
+2147483647      <-- LAST ALLOWED COLUMN NUMBER
 
 SAMPLE OUTPUT (excluding interative instructions)
 A           
