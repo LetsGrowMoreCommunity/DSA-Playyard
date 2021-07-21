@@ -35,15 +35,6 @@ public class IfNumberIsPowerOfFour {
 
     // To use for test cases
     public void print() {
-
-        /*
-
-        5 -> check(5) -> false
-        64 -> check(64) -> true
-        1073741824 -> check(1073741824) -> true
-
-         */
-
         System.out.println(check(5));
         System.out.println(check(16));
         System.out.println(check(1073741824));
@@ -53,7 +44,17 @@ public class IfNumberIsPowerOfFour {
     public static void main(String[] args) {
 
         IfNumberIsPowerOfFour tester = new IfNumberIsPowerOfFour();
+        
+        /*
 
+        5 -> check(5) -> false
+        64 -> check(64) -> true
+        1073741824 -> check(1073741824) -> true
+        0 -> check(0) -> false
+        1 -> check(1) -> true
+
+         */
+        
         tester.print();
     }
 }
