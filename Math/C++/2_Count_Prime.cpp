@@ -24,3 +24,12 @@ int main(){
 
     return 0;
 }
+
+// Input 1:
+// 10
+// Output 1:
+// The number of prime numbers present between 1 to 10 : 4
+// Input 2:
+// 30
+// Output 2:
+// The number of prime numbers present between 1 to 30 : 10
