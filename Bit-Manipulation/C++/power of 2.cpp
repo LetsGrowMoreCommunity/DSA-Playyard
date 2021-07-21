@@ -18,3 +18,13 @@ int main() {
 	return 0;
 }
 
+/* 
+Test Cases
+
+Input: n = 16
+Output: yes
+
+Input: n = 3
+Output: No
+
+*/
