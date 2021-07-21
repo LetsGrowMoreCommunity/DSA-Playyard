@@ -14,15 +14,20 @@
 public class IfNumberIsPowerOfFour {
 
     // where method checks if value is power of four
-    public boolean check(long value) {
+    public boolean check(int value) {
         int i = 0;
 
         // loops until 4 to the power of i is equal to (return true) or greater than value (return false)
-        while (Math.pow(4, i) <= value) {
-            System.out.println(Math.pow(4, i) + " " + value);
-            if (Math.pow(4, i) == value) return true;
 
-            i++;
+        int bits = value & (value - 1);
+
+        if (value > 0 && bits == 0) {
+            while (value > 1) {
+                value >>= 1;
+                i++;
+            }
+
+            return i % 2 == 0;
         }
 
         return false;
