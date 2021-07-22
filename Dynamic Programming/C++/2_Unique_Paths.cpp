@@ -18,7 +18,7 @@ public:
     {
         if (m*n==0)
             return 0;   
-            //so that the functions can be called without increasing a validity check
+            //so that the functions can be called without adding a validity check
         
         //no need to store the next two cases as they return directly. 
         //In fact, storing increases time taken.
