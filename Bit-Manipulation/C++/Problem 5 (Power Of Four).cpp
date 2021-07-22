@@ -45,7 +45,7 @@
 
     ************3. BIT MANIPULATION Solution ************
     
-    This solution s hard to understand but problem is solved without any loops and recursion
+    This solution is hard to understand but problem is solved without any loops and recursion
 */
 
 class Solution {
