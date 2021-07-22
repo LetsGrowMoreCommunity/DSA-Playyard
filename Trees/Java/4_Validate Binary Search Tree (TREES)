@@ -1,0 +1,144 @@
+/*
+Given the root of a binary tree, determine if it is a valid binary search tree (BST).
+
+A valid BST is defined as follows:
+
+The left subtree of a node contains only nodes with keys less than the node's key.
+The right subtree of a node contains only nodes with keys greater than the node's key.
+Both the left and right subtrees must also be binary search trees.
+
+Input: root = [1,2,3]
+Output: true
+
+Input: root =[5,10,15,40,20,25,30,35]
+Output: false
+
+Validate BST Solution Approach : *The Min/Max Solution*
+
+In this approach, we start with a range of (min = NULL, max = NULL), which the root obviously meets. (NULL indicates 
+that there is no min or max.) We then branch left, checking that these nodes are within the range ( min = 
+NULL, max = 20). Then, we branch right, checking that the nodes are within the range ( min = 20, 
+max = NULL). 
+We proceed through the tree with this approach. When we branch left, the max gets updated. When we 
+branch right, the min gets updated. If anything fails these checks, we stop and return false.
+
+*/
+
+//The code below implements this approach
+
+import java.util.Scanner;
+
+public class ValidateBST {
+
+    static Scanner sc = null;
+
+    public static void main(String[] args) {
+        sc = new Scanner(System.in);
+        //Creating object of the class ValidateBST
+        ValidateBST i = new ValidateBST();
+        Node root = createTree();
+        System.out.println("The inorder transversal of the tree is :-");
+        // Calling inOrder function
+        inOrder(root);
+        System.out.println();
+        // Calling inBST function and printing if the given tree is a BST or not
+        System.out.println("is the Tree BST ?? : " + i.isBST(root, Integer.MIN_VALUE, Integer.MAX_VALUE));
+    }
+
+    // Function to create a binary tree using user's input
+    static Node createTree() {
+
+        Node root = null;
+        System.out.println("Enter data: ");
+        int data = sc.nextInt();
+
+        if (data == -1)
+            return null;
+
+        root = new Node(data);
+
+        System.out.println("Enter left for " + data);
+        root.left = createTree();
+
+        System.out.println("Enter right for " + data);
+        root.right = createTree();
+
+        return root;
+    }
+
+    // Function to print the given binary tree in in-order manner
+    static void inOrder(Node root) {
+        if (root == null)
+            return;
+
+        inOrder(root.left);
+        System.out.print(root.data + " ");
+        inOrder(root.right);
+    }
+
+    // The max-Min solution
+    // Function to determine whether a given binary tree is a BST
+    public boolean isBST(Node root, int min, int max) {
+        // base case
+        if (root != null) {
+            // if the node's value falls outside the valid range
+            if (root.data > max || root.data < min) {
+                return false;
+            }
+            // recursively check left and right subtrees with an updated range
+            return isBST(root.left, min, root.data) && isBST(root.right, root.data, max);
+        } else {
+            return true;
+        }
+    }
+
+}
+
+// A class to store a BST node
+class Node {
+    Node left, right;
+    int data;
+
+    public Node(int data) {
+        this.data = data;
+    }
+}
+
+/*
+Sample Input:
+Enter data: 
+5
+Enter left for 5
+Enter data:
+1
+Enter left for 1
+Enter data:
+-1
+Enter right for 1
+Enter data:
+-1
+Enter right for 5
+Enter data:
+4
+Enter left for 4
+Enter data:
+3
+Enter left for 3
+Enter data:
+-1
+Enter right for 3
+Enter data:
+-1
+Enter right for 4
+Enter data:
+6
+Enter left for 6
+Enter data:
+-1
+Enter right for 6
+Enter data:
+-1
+The inorder transversal of the tree is :-
+1 5 3 4 6
+is the Tree BST ?? : false
+*/
