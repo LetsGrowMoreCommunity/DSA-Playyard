@@ -74,7 +74,7 @@ int main()
 
     cout << "Given Linked List: ";
     printList(head);    
-    cout << "Deleting node " << head->next->next->data << " "; //delete the node with value 4
+    cout << "Deleting node " << head->next->next->data << " "; //delete the node 
     deleteNode(head, head->next->next);
     cout << "\nNew Linked List: ";
     printList(head);
