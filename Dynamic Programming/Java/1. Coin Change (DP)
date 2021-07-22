@@ -65,4 +65,19 @@ public class CoinChange {
 
         return map.get(value);
     }
+    
+    /*
+    
+    helper([1,2,5], 5, map) (from first test case above)
+    
+                5
+              / | \
+              4 3  0
+             / \ / \
+             3 2 2 1
+            / \
+            2 1
+      
+      minimum from this tree is 0, but since we selected one coin, we return 1
+     */
 }
