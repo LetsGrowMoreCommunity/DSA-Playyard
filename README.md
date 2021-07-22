@@ -6,7 +6,7 @@ This Project contains all the basic and important topics of DSA so what are you 
 
 
 ### 🥁🥁 ****Watch this video before contributing to DSA-Play yard 🙌. Happy Coding!**** 🙂
- https://youtu.be/Ff38VOjv1no
+ https://youtu.be/qXeaN_ZVVIc
 
 
 # 🚀 Languages Available under the Project
