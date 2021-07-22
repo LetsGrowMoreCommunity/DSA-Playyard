@@ -1,3 +1,5 @@
+//Adding the solution to same tree
+
 class Solution {
 public:
     bool isSameTree(TreeNode* p, TreeNode* q)//taking the parameters
