@@ -1,5 +1,3 @@
-package Contribution;
-
 /*
 
 6. Pascal's Triangle (DP)
