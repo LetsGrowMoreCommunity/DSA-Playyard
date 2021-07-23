@@ -55,6 +55,8 @@ int main()
 }
 
 /*
+
+Test Case 1
 Input: url = "https://leetcode.com/problems/design-tinyurl"
 Output: "https://leetcode.com/problems/design-tinyurl"
 
@@ -62,5 +64,10 @@ Explanation:
 Solution obj = new Solution();
 string tiny = obj.encode(url); // returns the encoded tiny url.
 string ans = obj.decode(tiny); // returns the original url after deconding it.
+
+
+Test Case 2
+Input: url= "https://leetcode.com/cards/recursion"
+Output : "https://leetcode.com/cards/recursion"
 
 */
