@@ -29,9 +29,16 @@ public:
             }
         }
         
-        return dp[n1][n2];//dp stores the final state and returns
+          cout<<dp[n1][n2]<<endl;//dp stores the final state and returns
     }
 };
+int main()//the main function
+{
+    string word1,string word2;
+    cin>>word1>>word2;
+    minDistance(str1, str2);
+    return 0;
+}
 //Example 1:
 
 //Input: word1 = "horse", word2 = "ros"
