@@ -28,3 +28,7 @@ if __name__ == "__main__" :
 #Input: 5
 #4 1 2 3 0
 #Output : 3
+
+#Input: 5
+# 3  0 2 0 4
+#Output: 7
