@@ -39,6 +39,11 @@ Note that buying on day 2 and selling on day 1 is not allowed because you must b
 Input: prices = [7,6,4,3,1]
 Output: 0
 Explanation: In this case, no transactions are done and the max profit = 0.
+
+Input: prices = [100, 180, 260, 310,40, 535, 695]
+Output: 655
+Buy on day 5 (price = 40) and sell on day 7 (price = 695), profit =  655.
+
 /*
 
 
