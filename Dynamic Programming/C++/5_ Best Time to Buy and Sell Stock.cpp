@@ -1,6 +1,7 @@
 //time comlexity 0(n)
 
 #include <bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
@@ -26,6 +27,10 @@ int main()
  
      cin >> prices[i]; 
     }
+    Solution obj;//declaration of object of the class
+
+    
+    obj.maxProfit();//accessing the member func
      
     cout << maxProfit(prices);
  
