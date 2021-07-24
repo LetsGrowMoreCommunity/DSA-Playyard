@@ -1,4 +1,4 @@
-//time comlexity 09n
+//time comlexity 0(n)
 
 class Solution {
 public:
@@ -6,8 +6,8 @@ public:
         
         int profit=0;
         int minvalue=INT_MAX;//since min hence we are storing INT_MAX
-        
-        for(int i=0;i<prices.size();i++)//Iterating 
+        int N=prices.size();
+        for(int i=0;i<N;i++)//Iterating 
         {
             minvalue=min(minvalue,prices[i]);//find out the min of the prices
             profit=max(profit,prices[i]-minvalue);//find thea max because profit would be the max when u sell for max and buy for min
@@ -17,6 +17,20 @@ public:
         
     }
 };
+int main()
+{
+  
+    int prices[N];
+    for (i = 0; i < N; i++) {
+ 
+     cin >> prices[i]; 
+    }
+     
+    cout << maxProfit(prices);
+ 
+    return 0;
+}
+ 
 /*Input: prices = [7,1,5,3,6,4]
 Output: 5
 Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
