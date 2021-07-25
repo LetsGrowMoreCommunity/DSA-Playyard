@@ -3,4 +3,9 @@
 3. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 4. [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)
 5. [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
+6. [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
+7. [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
+8. [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/)
+9. [Distinct Echo Substrings](https://leetcode.com/problems/distinct-echo-substrings/)
+10. [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)
 
