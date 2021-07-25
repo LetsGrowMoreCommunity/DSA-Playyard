@@ -2,40 +2,51 @@
 
 #include <bits/stdc++.h>
 using namespace std;
-class Solution {
-public:
-    int maxProfit(vector<int>& prices) {
-        
-        int profit=0;
-        int minvalue=INT_MAX;//since min hence we are storing INT_MAX
-        int N=prices.size();
-        for(int i=0;i<N;i++)//Iterating 
-        {
-            minvalue=min(minvalue,prices[i]);//find out the min of the prices
-            profit=max(profit,prices[i]-minvalue);//find thea max because profit would be the max when u sell for max and buy for min
-        }
-        
-        return profit;
-        
+
+int maxProfit(int prices[], int N)
+{
+    int n = N;
+    int cost = 0;//declaration and initialization
+    int maxCost = 0;
+
+    if (n == 0) 
+    {
+        return 0;
     }
-};
+    
+    
+    int min_price = prices[0];//initialising
+
+    for(int i = 0; i < n; i++)
+    {
+       
+        min_price = min(min_price, prices[i]);//the min price
+
+        
+
+        maxCost = max(maxCost, (prices[i] - min_price));//find thea max because profit would be the max when u sell for max and buy for min
+    }
+    return maxCost;
+}
+
+// main func 
 int main()
 {
-  
+    int N;
     int prices[N];
+    
     for (int i = 0; i < N; i++) {
- 
+
      cin >> prices[i]; 
     }
-    Solution obj;//declaration of object of the class
-
+    N = sizeof(prices) / sizeof(prices[0]);
     
-    obj.maxProfit();//accessing the member func
-     
-    cout << maxProfit(prices);
- 
+   
+    cout << maxProfit(prices, N);
+
     return 0;
 }
+
  
 /*Input: prices = [7,1,5,3,6,4]
 Output: 5
