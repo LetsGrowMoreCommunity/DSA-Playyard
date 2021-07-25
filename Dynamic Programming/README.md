@@ -11,3 +11,9 @@
 [6. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 
 [7. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+
+[8. House Robber](https://leetcode.com/problems/house-robber/)
+
+[9. Interleaving String](https://leetcode.com/problems/interleaving-string/)
+
+[10. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
