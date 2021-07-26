@@ -33,13 +33,14 @@ int maxProfit(int prices[], int N)
 int main()
 {
     int N;
+    cin>>N;
     int prices[N];
     
     for (int i = 0; i < N; i++) {
 
      cin >> prices[i]; 
     }
-    N = sizeof(prices) / sizeof(prices[0]);
+   
     
    
     cout << maxProfit(prices, N);
