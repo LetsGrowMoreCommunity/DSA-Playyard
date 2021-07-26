@@ -16,6 +16,7 @@ public:
         int n=stones.size();
         
         for(int i=0;i<n;i++)
+        
             pq.push(stones[i]); //storing value of stones in max heap
         
         while(pq.size()!=1 && pq.size()!=0) // Till size become 1 or 0
@@ -69,6 +70,8 @@ int main()
     return 0;
 }
 
+// Time Complexity : O(N)
+// Space Complexity : O(N)
 /*
 Test Case 1 :
 
