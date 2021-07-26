@@ -1,23 +1,20 @@
-//time comlexity 0(n)
+
+
+//time comlexity 0(N)
 
 #include <bits/stdc++.h>
 using namespace std;
 
 int maxProfit(int prices[], int N)
 {
-    int n = N;
+
     int cost = 0;//declaration and initialization
     int maxCost = 0;
-
-    if (n == 0) 
-    {
-        return 0;
-    }
     
     
     int min_price = prices[0];//initialising
 
-    for(int i = 0; i < n; i++)
+    for(int i = 0; i < N; i++)
     {
        
         min_price = min(min_price, prices[i]);//the min price
@@ -47,6 +44,11 @@ int main()
 
     return 0;
 }
+
+ 
+
+
+        
 
  
 /*Input: prices = [7,1,5,3,6,4]
