@@ -7,5 +7,5 @@
 7. [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
 8. [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 9. [Sort an Array](https://leetcode.com/problems/sort-an-array/)
-10. [Maximum Score From Removing Stones](https://leetcode.com/problems/maximum-score-from-removing-stones/)
+11. [Maximum Score From Removing Stones](https://leetcode.com/problems/maximum-score-from-removing-stones/)
 
