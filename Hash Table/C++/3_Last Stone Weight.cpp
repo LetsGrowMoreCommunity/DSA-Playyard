@@ -37,7 +37,7 @@ public:
         if(pq.size()==1) //If only 1 stone exist
             return pq.top();
         else
-            return 0; // No ston left
+            return 0; // No stone left
         
         
     }
@@ -75,7 +75,10 @@ int main()
 /*
 Test Case 1 :
 
-Input: [2,7,4,1,8,1]
+Input: 
+t=1
+n=6
+arr= [2,7,4,1,8,1]
 Output: 1
 Explanation: 
 We combine 7 and 8 to get 1 so the array converts to [2,4,1,1,1] then,
@@ -85,7 +88,10 @@ we combine 1 and 1 to get 0 so the array converts to [1] then that's the value o
 
 Test Case 2:
 
-Input: [4,6,8,2]
+Input: 
+t=1
+n=6
+arr= [4,6,8,2]
 Output: 0
 
 */
