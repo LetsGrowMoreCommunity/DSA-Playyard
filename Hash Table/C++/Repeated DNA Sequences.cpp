@@ -55,9 +55,13 @@ int main()
 TestCase 1:
 Input: s = "AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT"
 Output: ["AAAAACCCCC","CCCCCAAAAA"]
+Explaination: DNA sequence AAAAACCCCC and CCCCCAAAAA both of length 10 are repeating 2 times ,
+rest all sequences are present only once.
+ 
 
 TestCase 2:
 Input: s = "AAAAAAAAAAAAA"
 Output: ["AAAAAAAAAA"]
+Explaination: DNA sequence AAAAAAAAAA of length is repeating 4 times, rest all sequences are present only once.
 
 */
