@@ -47,7 +47,7 @@ public:
 int main() 
 {
     int t;
-    scanf("%d",&t);
+    cin>>t;
     while(t--)
     {
         vector<int>v;
