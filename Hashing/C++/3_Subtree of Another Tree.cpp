@@ -1,4 +1,5 @@
-
+//TC-O(mn) where m and n are number of nodes in given two trees. 
+//SC-0(M) the one having largest nodes
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -85,6 +86,7 @@ int main()
 }
 
 /*Input: root = [3,4,5,1,2,null,null,null,null,0], subRoot = [4,1,2]
-Output: false
+Output: false//its false since if we write the nodes in a form of  a tree we would find that its not forming a subtree
 Input: root = [3,4,5,1,2], subRoot = [4,1,2]
 Output: true/*
+//if we write the nodes in form  of a tree we will notice that they are satisfying the conditions and forming a subtree
