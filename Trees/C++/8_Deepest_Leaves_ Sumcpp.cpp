@@ -1,5 +1,4 @@
-//Ttime 
-//space complexiity
+
 //done using bfs
 class Solution { 
 public:
@@ -14,7 +13,7 @@ public:
             levels.push_back(level);
             
             for(TreeNode* l: level){
-                if(l->left) toDo.push(l->left);
+                if(l->left) toDo.push(l->left);//if left then push left
                 if(l->right) toDo.push(l->right);
             }
         }
@@ -30,7 +29,7 @@ int main()
 {
     vector<int>root;
     cin>>root;
-    deepestLeavesSum(TreeNode* root)
+    cout<< deepestLeavesSum(TreeNode* root)<<endl;
 }
 /*Input: root = [1,2,3,4,5,null,6,7,null,null,null,null,8]
 Output: 15
