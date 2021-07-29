@@ -46,6 +46,13 @@ Explanation : For example if we give 32 as an input.
 10= 1^2 + 0^2 = 1 
 Hence it's a Happy number.
 
+Input: n = 17
+Explanation:
+1^2 + 7^2 = 53
+5^2 + 3^2 = 34
+3^2 + 4^2 = 25
+2^2 + 5^2 = 29 ..... This keeps on increasing and decreasing and loop continues hence, this is unhappy number.
+
 Point to Remember:
 If the process results in an endless cycle of numbers containing 4, then the number is called an unhappy number.
 If output is 1 then it's an happy number.
