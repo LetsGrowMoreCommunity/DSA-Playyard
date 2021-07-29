@@ -1,8 +1,8 @@
 //time complexity )(NLOGN)
-class Solution {
-public:
+#include<bits/stdc++.h>
+using namespace std;
     
-    vector<string> findRelativeRanks(vector<int>& nums) {//take the vector of scores
+vector<string> findRelativeRanks(vector<int>& nums) {//take the vector of scores
 	int n = nums.size();//counting the size 
 	priority_queue<pair<int,int>> pq;//taking a priority queqe
 	vector<string> ans(n);
@@ -20,10 +20,8 @@ public:
 	  pq.pop();//for printingthe elements in the output
 	}
 	return ans;//returning the ans
+}
 
-        
-    }
-};
 int main()
 {
 
