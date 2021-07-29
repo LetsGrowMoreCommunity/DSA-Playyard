@@ -31,6 +31,7 @@ int main(){
 string text;
 cin>>text;
 distinctEchoSubstrings(string text);
+cout<<s.size()<<endl;
 return 0;   
 }
     /*Example 1:
