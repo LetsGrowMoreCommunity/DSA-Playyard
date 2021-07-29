@@ -31,7 +31,7 @@ int main(){
 string text;
 cin>>text;
 distinctEchoSubstrings(string text);
-    
+return 0;   
 }
     /*Example 1:
 
