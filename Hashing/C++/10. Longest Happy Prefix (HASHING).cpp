@@ -84,11 +84,23 @@ Input 1 :
 	anyonecananyone
 Output 1:
 	The Maximum length of repeated subarray is  :  anyone
-	
+Explaination :
+	In the input string "anyonecananyone", the length of longest happy prefix is "anyone", because we can see that in the inputstring substring "anyone" 
+	is present from index 0 to 5 and other is from 9 to 14.
+	Thus we can say the substring "anyone" may be one of the happy prefix.
+	Now if we add one more character in "anyone", like we take "anyonec", we can clearly see that this substing is not suffix also.
+	So "anyone" substring should be the longest happy prefix.
+
 Input 2 :
 	luckyfool
 Output 1:
 	The Maximum length of repeated subarray is  :  l
+Explaination :
+	In the input string "luckyfool", the length of longest happy prefix is "l", because we can see that in the inputstring substring "l" 
+	is present as the first letter and the last letter.
+	Thus we can say the substring "l" may be one of the happy prefix.
+	Now if we add one more character in "l", like we take "lu", we can clearly see that this substing is not present as suffix also.
+	So "l" substring should be the longest happy prefix.
 
 */
 
