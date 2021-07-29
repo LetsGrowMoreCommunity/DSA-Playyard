@@ -15,19 +15,20 @@ class MyQueue {
     stack<int>st1;
     stack<int>st2;
 public:
-    
+    //ENQUEUE OPERATION
     void push(int x) {
         
         st1.push(x);
     }
-    
+    //DEQUEUE OPERATION
     int pop() {
+        //CHECKING WHETHER STACKS ARE EMPTY
         if(st1.empty() and st2.empty())
         {
             return -1;
         }
         if(st2.empty())
-        {
+        {//PUSHING ELEMENTS TO STACK 2 FROM STACK 1
             while(!st1.empty())
             {
                 st2.push(st1.top());
@@ -41,7 +42,7 @@ public:
         
         
     }
-     bool empty() {
+     bool empty() {//FUNCTION TO CHECK WHETHER STACKS ARE EMPTY
         if(st1.empty() and st2.empty())
         
             return true;
@@ -49,7 +50,7 @@ public:
         
     }
     int peek() {
-        
+        //CHECKING FOR THE TOPMOST ELEMENT STACK 2
         if(st2.empty())
         {
             while(!st1.empty())
