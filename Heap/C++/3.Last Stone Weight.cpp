@@ -36,7 +36,7 @@ public:
         if(pq.size()==1) //If only 1 stone exist
             return pq.top();
         else
-            return 0; // No ston left
+            return 0; // No stone left
 
 
     }
