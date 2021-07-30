@@ -1,6 +1,7 @@
 
 //Time complexity-0(n)
 //Space Complexity-0(n)
+#include <bits/stdc++.h>
 #include <iostream>
 using namespace std;   
 int findNthdigit(int num) {
