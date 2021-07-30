@@ -16,15 +16,12 @@ int maxProfit(int prices[], int N)
     {
        
         min_price = min(min_price, prices[i]);//the min price
-
-        
-
-        maxCost = max(maxCost, (prices[i] - min_price));//find thea max because profit would be the max when u sell for max and buy for min
+        maxCost = max(maxCost, (prices[i] - min_price));//find the max because profit would be the max when u sell for max and buy for min
     }
     return maxCost;
 }
 
-// main func 
+// main func
 int main()
 {
     int N;
@@ -35,19 +32,10 @@ int main()
 
      cin >> prices[i]; 
     }
-   
-    
-   
     cout << maxProfit(prices, N);
 
     return 0;
 }
-
- 
-
-
-        
-
  
 /*Input: prices = [7,1,5,3,6,4]
 Output: 5
@@ -63,8 +51,3 @@ Output: 655
 Buy on day 5 (price = 40) and sell on day 7 (price = 695), profit =  655.
 
 /*
-
-
-        
-
-        
