@@ -7,7 +7,7 @@ def isPowerOfTwo (x):
 	# is for the case when x is 0 
 	# let us consider x is 4(100) x-1 is 3(011)
 	# 100 & 011 will be 0 it will give true as output
-	return (x and (not(x & (x - 1))) )
+	return (x and (x & (x - 1)))
 
 # simple condition to check which will call isPowerOfTwo
 n= int(input("Enter Number\n"))
