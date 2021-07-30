@@ -23,29 +23,29 @@ public:
     map<int,int>mp;
     for(int i=0;i<arr.size();i++)
     {
-        mp[arr[i]]++;
+        mp[arr[i]]++;                  // mapping integers and frequencies of integers
     }
     
-    priority_queue<int>pq;
+    priority_queue<int>pq;            
     
     for(auto i : mp)
     {
-        pq.push(i.second);
+        pq.push(i.second);            // frequencies from map are pushed in priority_queue
     }
         
-    int remove_count = 0;
+    int remove_count = 0;             // required count of integers in set, for which all occurrences should be removed 
     int currsize = arr.size();
     
     while(currsize >  arr.size()/2)
     {
-        int top = pq.top();
-        currsize -= top;
-        pq.pop();
-        remove_count ++; 
+        int top = pq.top();          // getting max occurrence in current priority queue
+        currsize -= top;             // removing all occurrences 
+        pq.pop();                    // removing element having max occurrence in current priority queue
+        remove_count ++;             // increasing count since we have got one more element for that set 
         
     }
 
-  return remove_count;
+  return remove_count;               // returning final count of integers present in set, for which all occurrences should be removed 
         
   }
 };
