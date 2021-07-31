@@ -30,6 +30,12 @@
     **********APPROACH**********
         USING BIT MANIPULATION 
 */
+
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
 class Solution {
 public:
     vector<int> countBits(int num) {
@@ -46,3 +52,24 @@ public:
         return ans;
     }
 };
+
+int main() {
+	
+	int n; 
+	cin >> n;
+	Solution s1;
+	vector<int> sol;
+	sol = s1.countBits(n);
+	
+	cout << "[";
+	for (int i = 0; i < sol.size(); i++) {
+	    cout << sol[i] << ",";
+	}
+	cout << "]";
+	
+	return 0;
+}
+
+//TEST CASE: 
+//INPUT: 2
+//OUTPUT: [0,1,1]
