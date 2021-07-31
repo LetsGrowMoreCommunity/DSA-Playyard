@@ -1,6 +1,9 @@
 ////Time: O(m*n), Space: O(m*n);
 //Bottom up Approach
 
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     int minDistance(string word1, string word2) {
@@ -34,11 +37,13 @@ public:
 };
 int main()//the main function
 {
-    string word1,string word2;
+    string word1, word2;
     cin>>word1>>word2;
-    minDistance(str1, str2);
+    Solution ob;
+    ob.minDistance(word1, word2);
     return 0;
 }
+
 //Example 1:
 
 //Input: word1 = "horse", word2 = "ros"

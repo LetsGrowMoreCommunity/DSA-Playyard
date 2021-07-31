@@ -4,3 +4,7 @@
 4. [Counting Bits](https://leetcode.com/problems/counting-bits/)
 5. [Power of Four](https://leetcode.com/problems/power-of-four/)
 6. [Number Complement](https://leetcode.com/problems/number-complement/)
+7. [Set Mismatch](https://leetcode.com/problems/set-mismatch)
+8. [Binary Gap](https://leetcode.com/problems/binary-gap)
+9. [Subset](https://leetcode.com/problems/subsets)
+10. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)

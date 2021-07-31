@@ -3,3 +3,9 @@
 3. [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
 4. [Relative Ranks](https://leetcode.com/problems/relative-ranks/)
 5. [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+6. [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)
+7. [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
+8. [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+9. [Sort an Array](https://leetcode.com/problems/sort-an-array/)
+11. [Maximum Score From Removing Stones](https://leetcode.com/problems/maximum-score-from-removing-stones/)
+
