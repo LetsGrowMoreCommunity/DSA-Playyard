@@ -93,10 +93,10 @@ SAMPLE OUTPUT (excluding interactive instructions)
 1   ( for test case-1 only by removing occurrences of 1 element(i.e 3) array will be of half in size )
 2   ( for test case-2 we need to remove occurrences of atleast 2 elements (i.e. {5,4} or {5,2}) to make array of size <= half )
 
-COMPLEXITY ANALYSIS : N= no.of cards in desk 
-Time : O(N) to iterate array/vector and save frequencies or . 
-       O(NLogN) for creating maxheap or inserting elements in priority_que
+COMPLEXITY ANALYSIS : N= no.of elements in array
+Time : O(N) to iterate array/vector and save frequencies. 
+       O(NlogN) for creating maxheap or inserting elements in priority_que.
        Hence, O(NlogN) overall.
-Space: O(N) for inputs and aux space: O(N) to re-create a queue.
+Space: O(N) for inputs and aux space: O(N) to create priority_queue.
        Hence, O(N) overall.
 */
