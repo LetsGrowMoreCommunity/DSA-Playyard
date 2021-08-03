@@ -1,39 +1,37 @@
 
 //Time complexity-0(n)
-//Space Complexity-0(n)
+//Space Complexity-0(1)
 #include <bits/stdc++.h>
 #include <iostream>
 using namespace std;   
-int findNthdigit(int num) {
-        
-         int len = 1;
-        long c = 9;//it has been kept 9 because initially there are 9 digits of len 1 that is 1-9
-        int result;
-        int first = 1;
 
-        while (num > len * c) {//this we check to ensure that if the n is greater than the 9 digits of len 1 then it belongs to somelonger length digits
-            num -= len * c;//so thats why we re decrementing such that ut gradually belongs to the range 1-9
-            len += 1;//so likewise we increase the len
-            c *= 10;//if the len is greater than 0ne then it must be multiplie by 10 in each time while loop runs
-            first =first* 10;
-        }
-        first += (num - 1) / len;//this is for finding the number in that specifc range
-        string digit = to_string(first);
-        result = digit[(num-1)%len] - '0';//then we need to convert it to the string 
-        return result;//this step is to finallyr retur that integer digit and thats why we are subtracting'0'.
+    int findNthdigit(int n) {
+        if(n < 10) return n;//in this casee the nth digit is the same
         
     
+        long long c = 9, k = 1;
+        while(n > c * k){//this we check to ensure that if the n is greater than the 9 digits of len 1 then it belongs to somelonger length digits
+            n -= c * k;//so thats why we re decrementing such that ut gradually
+            c *= 10;//if the len is greater than 0ne then it must be multiplie by 10 in each time while loop runs
+            k++;
+        }
+        int result = c / 9 + (n - 1) / k;//this is for finding the number in that specifc range
         
+       
+        while(n % k != 0) {
+           result /= 10;
+           n++;
+        }
+        return result % 10;//this step is to finallyr retur that integer digit extract the nth digit
     }
 int main()
 {
-
-    int num;
-    string digit;
-    cin>>num;
-    cout << findNthdigit(num);
+    int n;
+   
+    cin>>n;
+    cout << findNthdigit(n);
     return 0;
-
+    
 }
 /*Input: n = 3
 Output: 3
