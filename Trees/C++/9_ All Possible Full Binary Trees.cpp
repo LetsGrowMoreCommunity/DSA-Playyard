@@ -2,9 +2,9 @@ Time Complexity: O(2^N)
 Space Complexity: O(2^N)
 
 #include <bits/stdc++.h>
+#include<iostream>
 using namespace std;
-class TreeNode{
-public:
+
     vector<TreeNode*> allPossibleFBT(int n) {
 	
         if(n&1 == 0)return {}; //FBT can have only odd number of nodes
@@ -28,8 +28,6 @@ public:
 };
 int main(){
    vector<TreeNode*> v;//declaring a vector
-   Solution ob;
-   v = (ob.allPossibleFBT(7)) ;// accessing member functions
    for(TreeNode *t : v){
       tree_level_trav(t);//calling the function
    }
