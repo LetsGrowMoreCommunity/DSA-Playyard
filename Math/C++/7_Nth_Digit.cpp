@@ -10,9 +10,9 @@ using namespace std;
         
     
         long long c = 9, k = 1;
-        while(n > c * k){//this we check to ensure that if the n is greater than the 9 digits of len 1 then it belongs to somelonger length digits
-            n -= c * k;//so thats why we re decrementing such that ut gradually
-            c *= 10;//if the len is greater than 0ne then it must be multiplie by 10 in each time while loop runs
+        while(n > c * k){//this we check to ensure that if the n is greater than the 9 digits of len 1 then it belongs to some longer length digits
+            n -= c * k;//so thats why we are decrementing 
+            c *= 10;//if the len is greater than one then it must be multiplie by 10 in each time while loop runs
             k++;
         }
         int result = c / 9 + (n - 1) / k;//this is for finding the number in that specifc range
@@ -22,7 +22,7 @@ using namespace std;
            result /= 10;
            n++;
         }
-        return result % 10;//this step is to finallyr retur that integer digit extract the nth digit
+        return result % 10;//this step is to finally return that integer 
     }
 int main()
 {
