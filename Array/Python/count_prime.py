@@ -20,4 +20,6 @@ for i in range(0, n, 1):
     if(prime[l[i]]):
             count+=1
 print(count)
+
+#output 5
     
