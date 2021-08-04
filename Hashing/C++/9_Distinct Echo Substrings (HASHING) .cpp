@@ -2,8 +2,8 @@
 //time complexity=0(n2)
 //space complexity 0(n)
 
-class Solution {
-public:
+#include <iostream>
+using namespace std;
     int distinctEchoSubstrings(string text) {
         int n=text.length();
         if(n==1) return 0;
