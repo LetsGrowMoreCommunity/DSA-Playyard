@@ -107,9 +107,10 @@ public:
             
         } 
           helper(root->right,level,curlevel+1);
-            helper(root->left,level,curlevel+1);
+          helper(root->left,level,curlevel+1);
 
     }
+ 
     vector<int> rightSideView(TreeNode* root) {
         if(!root){
             return res;
@@ -120,8 +121,6 @@ public:
        
     }
 };
-
-
 
 int main()
 {
@@ -143,6 +142,7 @@ int main()
         cout << endl;
     }
 }
+
 
 /*
 Example 1
