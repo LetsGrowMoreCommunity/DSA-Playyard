@@ -1,6 +1,8 @@
+
 /*
 Alogorithm: Here, start from left and right child of root, swap both the nodes then recursively swap the children of left and right subtree.
 */
+
 
 #include <bits/stdc++.h>
 using namespace std;
