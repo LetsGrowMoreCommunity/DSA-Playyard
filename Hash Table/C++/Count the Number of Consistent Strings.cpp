@@ -1,6 +1,10 @@
 //time complexity of the code is 0(N)
 
 ///this problem is done using concept of hashing(distributing key and value pairs)
+//You are given a string allowed consisting of distinct characters and an array of strings words. A string is consistent if all characters in the string appear in the string allowed.
+//Return the number of consistent strings in the array words.
+
+
 #include <iostream>
 using namespace std;
     int countConsistentStrings(string s, vector<string>& v) {
