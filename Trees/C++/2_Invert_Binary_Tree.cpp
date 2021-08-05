@@ -136,8 +136,8 @@ int main()
   
 }
 
-/*
 
+/*
 Example 1
 Input: 7 8 9 3 1 2
 Output: 7 9 8 2 1 3
@@ -157,7 +157,6 @@ So, here the tree goes from    7
 Example 2
 Input: 4 2 7 1 3 6 9
 Output: 4 7 2 9 6 3 1
-
 */
 
 //Time Complexity: O(n), where n is the number of nodes in the tree
