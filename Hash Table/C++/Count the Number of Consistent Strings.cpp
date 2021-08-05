@@ -1,9 +1,8 @@
 //time complexity of the code is 0(N)
 
 ///this problem is done using concept of hashing(distributing key and value pairs)
-
-class Solution {
-public:
+#include <iostream>
+using namespace std;
     int countConsistentStrings(string s, vector<string>& v) {
         int ans=0;
         unordered_map<char,int>mp;//stores the character and its freq and we dont want any duplicate ones
