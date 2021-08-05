@@ -35,7 +35,7 @@ if __name__ == '__main__':
     else:
         print("The majority element is not present")
 
-
+'''
 OUTPUT :  
 size 5
 Enter elements of array 2
@@ -47,6 +47,7 @@ The majority element is 2
 
 Time Complexity : O(n)
 Space Complexity : O(n) { due to hash table }
+'''
 
         
         
