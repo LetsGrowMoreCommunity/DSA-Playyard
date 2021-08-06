@@ -1,7 +1,7 @@
 //brute force approach
 //time complexity=0(n2)
 //space complexity 0(n)
-
+#include <bits/stdc++.h>
 #include <iostream>
 using namespace std;
     int distinctEchoSubstrings(string text) {
