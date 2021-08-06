@@ -1,6 +1,6 @@
-/*
-
+/* 
 Algorithm: 
+
 1. The idea is to utilize the property of binary search tree that every left node's value is smaller than the parent node's value and right node's value is greater
 than the parent node's value.
 2. A boolean functon (named check here) is made to check recursively that left node is smaller than its parent node and right node is greater than its parent node.
@@ -143,7 +143,6 @@ int main()
         cout<<"False";
     }
 }
-
 
 /*
 
