@@ -33,9 +33,6 @@
   formula :-  edge_length = ( (x2 - x1)^2 + (y2 - y1)^2 )^0.5
  */
 
-
-package com.mitadru;
-
 import java.util.Scanner;
 
 public class Main {
