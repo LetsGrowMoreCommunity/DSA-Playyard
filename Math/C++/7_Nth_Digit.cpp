@@ -1,6 +1,10 @@
 
 //Time complexity-0(n)
 //Space Complexity-0(1)
+
+//Algoritm Explanation-This is a pretty simple implementation based problem where first we are trying to see how many digits the number has,then we are  calculating which number is it and
+//and then we are calculating the digit of the number.
+
 #include <bits/stdc++.h>
 #include <iostream>
 using namespace std;   
