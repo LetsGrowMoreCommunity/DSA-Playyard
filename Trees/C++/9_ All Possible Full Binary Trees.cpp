@@ -44,4 +44,8 @@ Output: [[0,0,0,null,null,0,0,null,null,0,0],[0,0,0,null,null,0,0,0,0],[0,0,0,0,
 Example 2:
 
 Input: n = 3
-Output: [[0,0,0]]/*
+Output: [[0,0,0]]
+
+Input: n = 5
+Output: [[0, 0, 0, null, null, 0, 0, null, null, null, null],
+[0, 0, 0, 0, 0, null, null, null, null, null, null]]/*
