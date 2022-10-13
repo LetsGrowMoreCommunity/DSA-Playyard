@@ -1,0 +1,90 @@
+# include<bits/stdc++.h>
+using namespace std;
+class node{
+    public:
+    int data;
+    node*left;
+    node*right;
+node(int k){
+    this->data=k;
+ this->left=NULL;
+ this->right=NULL;
+}
+};
+node* insertinBST(node*&root,int d){
+    if(root==NULL){
+        root=new node(d);
+        return root;
+    }
+    if(d>root->data){
+        root->right=insertinBST(root->right,d);
+
+    }
+    else{
+        root->left=insertinBST(root->left,d);
+    }
+    return root;
+}
+void takeinput(node*&root){
+ int data;
+ cin>>data;
+ while(data!=-1){
+    insertinBST(root,data);
+    cin>>data;
+ }
+}
+void levelorder(node*root){
+    queue<node*>q;
+    q.push(root);
+    q.push(NULL);
+    while(!q.empty( )){
+        node*temp=q.front();
+ q.pop();
+ if(temp==NULL){
+    cout<<endl;
+    if(!q.empty()){
+        q.push(NULL);
+            }
+ }
+ else{
+    cout<<temp->data<<" ";
+    if(temp->left){
+        q.push(temp->left);
+    }
+    if(temp->right){
+        q.push(temp->right);
+
+    }
+ }
+    }
+}
+bool search(node*&root,int key){
+    
+      node*temp=root;
+    
+while(temp!=NULL){
+    if(temp->data==key){
+        return true;
+    }
+  if(temp->data>key){
+        temp=temp->left;
+       
+    }
+    else{
+        temp=temp->right;
+    }
+}
+return false;
+}
+int main(){
+node*root=NULL;
+takeinput(root);
+cout<<"print bst"<<endl;
+levelorder(root);
+cout<<"search"<<endl;
+int key;
+cin>>key;
+int a=search(root,key);
+cout<<a<<endl;
+return 0;
+} 
